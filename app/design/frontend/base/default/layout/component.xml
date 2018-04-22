@@ -1,0 +1,9 @@
+<?xml version="1.0"?>   
+<layout version="0.1.0">   
+  <cms_index_index>
+    <reference name="content">
+      <block type="component/index" name="component_index" template="component/index.phtml"/> 
+    </reference>
+  </cms_index_index>  
+</layout>   
+	
